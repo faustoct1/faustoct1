@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @faustoct1.
-- 👀 I’m interested in build apps.
-- 🌱 I’m currently learning about artificial intelligence and projects for internet consumers.
-- 💞️ I’m looking to collaborate on some repos that I found bugs nothing special.
+- 👋 Hi, I’m Fausto.
+- 👀 I’m interested in building social apps.
+- 🌱 I’m currently learning about AI.
 - 📫 How to reach me @faustoct1 on twitter.
 
 <!---
