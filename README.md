@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fausto.
-- 👀 I like to build social apps.
-- 🌱 I’m currently learning about AI.
+- 👀 I like to build consumer apps and boring tools.
+- 🌱 I’m currently learning ios apps and some of them using AI.
 - 📫 Reach me @faustoct1 on twitter.
 
 <!---
